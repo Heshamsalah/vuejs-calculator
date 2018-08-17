@@ -1,5 +1,7 @@
 # calculator
 
+![Alt text](/public/Screenshot.png?raw=true "Calculator")
+
 ## Project setup
 ```
 yarn install
